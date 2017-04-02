@@ -20,8 +20,6 @@ public class Core {
 				System.out.println("~" + info + "~");
 				counties[index].add(Integer.parseInt(info.replaceAll(",", "")));
 			}
-			
-			System.out.println();
 			System.out.println(counties[index++]);
 				
 			
