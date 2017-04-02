@@ -1,5 +1,5 @@
 County Year Murder Rape Robbery AggravatedAssault ViolentCrimeTotal Burglary Larceny-Theft MotorVehicleTheft NonviolentCrimeTotal TotalCrimeIndex 11PercentChange Arson DomesticViolenceOffenses BiasIncidentReports
-
+ 
 Atlantic 2005 5 41 245 382 673 813 3,987 227 5,027 5,700 38 2,574 12 
 Bergen 2005 5 19 184 322 530 870 4,741 550 6,161 6,691 24 2,172 19 
 Burlington 2005 4 34 127 196 361 662 2,601 292 3,555 3,916 43 1,680 9 
